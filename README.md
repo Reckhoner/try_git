@@ -1,2 +1,2 @@
 # try_git
-This is a test mutta fucka
+curso git mutta fucka
